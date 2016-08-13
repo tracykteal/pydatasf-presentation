@@ -1,7 +1,8 @@
 ---
 title: "Empowering people by democratizing data skills"
 author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director
-<br> @tracykteal, @datacarpentry"
+<br> @tracykteal, @datacarpentry
+<br>Find these slides on GitHub: https://github.com/tracykteal/pydatasf-presentation/"
 output:
   ioslides_presentation:
     highlight: pygments
